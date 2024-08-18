@@ -93,10 +93,5 @@
     "id": 19,
     "name": "Нотугри утказилган пул",
     "type": "income"
-  },
-  {
-    "id": 20,
-    "name": "Test",
-    "type": "income"
   }
 ]
