@@ -1,1 +1,5 @@
-{}
+{
+  "api": "https://script.google.com/macros/s/AKfycbwewifktXmK5goVSzhrM760I9NRsm6Wu2kl_XKwQm_6QYaNXs6h-574t-8Ad3ut42IV/exec",
+  "version": 1,
+  "description": "Google sheet api"
+}
