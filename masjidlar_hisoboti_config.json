@@ -5,8 +5,9 @@
         "description": "Google sheet api"
     },
     "update": {
-        "version": 1,
-        "message": "Yangi versiyani o'rnating!",
+        "version": 2,
+        "version_name": "1.0.1",
+        "message": "Quyidagi tugmani bosing va yangi versiyani telegramdan o'rnating!",
         "url": "https://google.com"
     }
 }
