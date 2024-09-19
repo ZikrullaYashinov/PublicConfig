@@ -1,7 +1,7 @@
 {
     "api": {
-        "api": "https://script.google.com/macros/s/AKfycbzaucU3xFSsPQk5C-TDi9LC7VVGPBT8sflr9hoFde2K_9OwxDqlTIrB-Hpx6W6F84RH/exec",
-        "version": 15,
+        "api": "https://script.google.com/macros/s/AKfycbx6g7UOTq6BgUB6iG5mCl_u31H0Wqh9MxVNw2DHYn_A_bV1yLKetUZuTZU4NXu7xHl3/exec",
+        "version": 29,
         "description": "Google sheet api"
     },
     "update": {
