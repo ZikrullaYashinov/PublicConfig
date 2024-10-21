@@ -1,8 +1,8 @@
 {
     "api": {
-        "api": "https://script.google.com/macros/s/AKfycbzUFKB2WQihJWrebgmBbdki7-pIY1OR8_sgtlGMh3FtPPTb_k7tw18a06FpELbi0hkj/exec",
-        "version": 14,
-        "description": "Google sheet api"
+        "api": "https://script.google.com/macros/s/AKfycbwyOFYbL8A6PbPsbV8T5ynncyEh1X8U2zOy1URhJ-Of-cb4i-gQ2ZfoUUlX4Qcv696u/exec",
+        "version": 16,
+        "description": "Beta 3"
     },
     "update": {
         "version": 4,
