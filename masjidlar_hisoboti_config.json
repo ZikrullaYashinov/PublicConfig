@@ -1,8 +1,8 @@
 {
     "api": {
-        "api": "https://script.google.com/macros/s/AKfycbwyOFYbL8A6PbPsbV8T5ynncyEh1X8U2zOy1URhJ-Of-cb4i-gQ2ZfoUUlX4Qcv696u/exec",
-        "version": 16,
-        "description": "Beta 3"
+        "api": "https://script.google.com/macros/s/AKfycbyRB_5YFlmJM-e9WfoupSIw_lqaoDIMfhZzgqmTKW8ickt-ydDr9d4Pf-BxZID5dqnw/exec",
+        "version": 18,
+        "description": "Beta 5"
     },
     "update": {
         "version": 4,
