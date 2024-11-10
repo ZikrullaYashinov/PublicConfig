@@ -5,9 +5,9 @@
         "description": "Beta 5"
     },
     "debugApi": {
-        "api": "https://script.google.com/macros/s/AKfycbw8IHrMec8UivYfF4tLvb13qvIZZEdVzjrQzO3xv4cDnhh5gfuN4hqqsSagm1eHgid-/exec",
-        "version": 31,
-        "description": "Alpha 6"
+        "api": "https://script.google.com/macros/s/AKfycbxkz4AujEHH3U_9ZyQINpKP7oGYc5HK0mkOp_5Zsk2IMVjI-mKPagJD1kGs0vtnt60H/exec",
+        "version": 43,
+        "description": "Beta 8"
     },
     "update": {
         "version": 4,
