@@ -10,9 +10,9 @@
         "description": "Beta 8"
     },
     "update": {
-        "version": 6,
-        "version_name": "Tez orada yangi versiya chiqaramiz",
-        "message": "Ilovada bugun 24:00 gacha texnik ishlar olib boriladi!",
-        "url": ""
+        "version": 7,
+        "version_name": "1.2.2 (beta)",
+        "message": "Quyidagi tugmani bosing va yangi versiyani telegramdan o'rnating!",
+        "url": "https://t.me/Zikrulla_Project/28"
     }
 }
