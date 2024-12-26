@@ -6,8 +6,8 @@
     },
     "debugApi": {
         "api": "https://script.google.com/macros/s/AKfycbybPUnNHnow4ymOcm4iwyHdEz1ecRjQU4MvufzT1tDXRpwu4Lwl4TLZSa3NeunjESo4bg/exec",
-        "version": 1,
-        "description": "Beta 1"
+        "version": 6,
+        "description": "Beta 6"
     },
     "update": {
         "version": 7,
