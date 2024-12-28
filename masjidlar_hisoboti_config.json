@@ -1,18 +1,24 @@
 {
-    "api": {
-        "api": "https://script.google.com/macros/s/AKfycbxkz4AujEHH3U_9ZyQINpKP7oGYc5HK0mkOp_5Zsk2IMVjI-mKPagJD1kGs0vtnt60H/exec",
-        "version": 43,
-        "description": "Beta 8"
-    },
-    "debugApi": {
-        "api": "https://script.google.com/macros/s/AKfycbybPUnNHnow4ymOcm4iwyHdEz1ecRjQU4MvufzT1tDXRpwu4Lwl4TLZSa3NeunjESo4bg/exec",
-        "version": 6,
-        "description": "Beta 6"
-    },
-    "update": {
-        "version": 7,
-        "version_name": "1.2.2 (beta)",
-        "message": "Quyidagi tugmani bosing va yangi versiyani telegramdan o'rnating!",
-        "url": "https://t.me/+XLyLSeMKtgliYzcy"
-    }
+  "api": {
+    "api": "https://script.google.com/macros/s/AKfycbxkz4AujEHH3U_9ZyQINpKP7oGYc5HK0mkOp_5Zsk2IMVjI-mKPagJD1kGs0vtnt60H/exec",
+    "version": 43,
+    "description": "Beta 8"
+  },
+  "debugApi": {
+    "api": "https://script.google.com/macros/s/AKfycbybPUnNHnow4ymOcm4iwyHdEz1ecRjQU4MvufzT1tDXRpwu4Lwl4TLZSa3NeunjESo4bg/exec",
+    "version": 6,
+    "description": "Beta 6"
+  },
+  "update": {
+    "version": 7,
+    "version_name": "1.2.2 (beta)",
+    "message": "Quyidagi tugmani bosing va yangi versiyani telegramdan o'rnating!",
+    "url": "https://t.me/+XLyLSeMKtgliYzcy"
+  },
+  "updateOptional": {
+    "version": 7,
+    "version_name": "1.2.2 (beta)",
+    "message": "Quyidagi tugmani bosing va yangi versiyani telegramdan o'rnating!",
+    "url": "https://t.me/+XLyLSeMKtgliYzcy"
+  }
 }
